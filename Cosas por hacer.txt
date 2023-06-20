@@ -1,0 +1,6 @@
+1. Traspasar todo el material escencial del proyecto a este en limpio (Páginas que no aporten, ni hagan un enrredo en el proyecto)
+2. Login que mande a los diferentes tipos de usuarios
+3. terminar la vista del cliente
+4. Terminar la vista del medico, con todo lo que este requiera (Crear horas de atención, eliminarlas, modificarlas, ver sus propias horas, etc También poner precio)
+5. Terminar la vista de la secretaria, con todo lo que esta requiera, tomar horas con los nombres de pacientes, modificar las horas y eliminarlas, también poder ver todas las horas de todos los pacientes.
+6. No se que más, ir viendo
